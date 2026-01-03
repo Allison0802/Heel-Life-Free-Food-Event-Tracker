@@ -1,0 +1,5 @@
+{
+  "name": "HeelLife Free Food Tracker",
+  "description": "Periodically scans for free food events at UNC for the upcoming week (every Sunday) by analyzing the website HTML and allows adding them to your calendar.",
+  "requestFramePermissions": []
+}
